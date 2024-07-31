@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "sign-language-ai",
+    "sign-language": "sign-language-ai-6c8f0"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
