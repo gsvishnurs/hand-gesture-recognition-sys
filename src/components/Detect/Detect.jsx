@@ -214,7 +214,7 @@ const Detect = () => {
       );
       const recognizer = await GestureRecognizer.createFromOptions(vision, {
         baseOptions: {
-          modelAssetPath: "/gesture_recognizer.task",
+          modelAssetPath: "/sign_language_recognizer_25-04-2023.task",
         },
         numHands: 2,
         runningMode: runningMode,
